@@ -28,7 +28,21 @@ body{
 }
 .aboutus{
   text-align: center;
-  height: 300px;
-  padding: 30px;
+  height: 400px;
+  padding: 50px;
   line-height: 200%;
 }
+
+
+
+
+
+
+
+
+.we-do{
+  text-align: center;
+  padding-top: 40px;
+    
+}
+
