@@ -17,3 +17,18 @@ body{
 .heading1, .heading2{
   text-align: center;
 }
+.heading2{
+  padding-bottom: 120px;
+}
+#mouse{
+  text-align: center;
+  padding: 30px;
+  margin-top: 30px;
+  margin-bottom: 5px;
+}
+.aboutus{
+  text-align: center;
+  height: 300px;
+  padding: 30px;
+  line-height: 200%;
+}
