@@ -1,4 +1,4 @@
-
+c 
 body{
   margin: auto;
   box-sizing: border-box;
@@ -8,7 +8,7 @@ body{
   margin-right: auto;
   padding: 50px;
 }
-.h_image{
+.backimage1{
   background-image: url("images/backgrounds/h_img.jpg");
   height:700px; 
    
@@ -19,9 +19,9 @@ body{
   padding-bottom: 30px;
 
 }
-.banner1,.banner2 { 
+.header1,.para1 { 
   text-align: center;
-  color: white;
+  color: black;
 }
 .banner2 {
   padding-bottom: 120px;
@@ -40,14 +40,14 @@ body{
   line-height: 200%;
 }
 .s_image{
-  background-image: url("images/backgrounds/s_image.jpg");
   height: 350px;
   padding-top: 100px;
   line-height: 200%; 
+  background-image: url(images/backgrounds/s_image.jpg);
 }
-.banner2-1,.banner2-2 {
+.header2,.para2 {
   text-align: center; 
-  color: white;
+  color: black;
 
 }
 .row{
@@ -102,14 +102,14 @@ body{
   transition: 0.5s;
   background: rgba(0, 0, 0, 0);
 }
-.container .box .icon .btn_1{
+.container .box .icon .button1{
   background: rgba(0, 0, 0, 0);
   float: inherit;
 }
-.container .box .icon .btn_2{
+.container .box .icon .button2{
   background: rgba(0, 0, 0, 0);
 }
-.container .box .icon .btn_3{
+.container .box .icon .button3{
   background: rgba(0, 0, 0, 0);
 }
 .container .box .par_1{
@@ -193,7 +193,7 @@ form{
 .txtb{
   background: rgba(0, 0, 0, 0);
 }
-.contact_us .txtb label, input, textarea{
+.contact .txtb label, input, textarea{
   display: inline-block;
 
 }
