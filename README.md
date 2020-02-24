@@ -18,7 +18,7 @@ and internet connection for a live feed and file submission.
 
 ## Live link to the project.
 
-
+   https://othirakevin.github.io/delanistudio/
 
 ## Contact me:
    Email: othirakevin@gmail.com

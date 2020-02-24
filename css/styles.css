@@ -49,7 +49,7 @@ body{
 }
 .header2,.para2 {
   text-align: center; 
-  color: black;
+  color: white;
 
 }
 .row{
@@ -96,7 +96,6 @@ body{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 30%;
   height: 40%;
   transition: 0.5s;
   background: rgba(0, 0, 0, 0);
@@ -131,8 +130,9 @@ body{
 }
 
 .Portfolio{
-  padding: 20px;
+  padding: 100px;
   text-align: center;
+  
 }
 .row1{
   display: flex;
@@ -147,11 +147,11 @@ body{
 .PortF1{
   padding: 20px, 20px, 20px, 20px;
 }
-.col-sm-3{
+.a{
   display: inline;
-  width: 33.33%;
+  width: 25%;
   padding: 10px;
-  transition: 0.5s;
+  // transition: 0.5s;
   
 }
 .row2{
@@ -162,17 +162,17 @@ body{
   margin: 20px;
   text-align: justify;
 }
-.col-sm-3:hover{
+.a:hover{
   background-size: 
 }
-.col-sm-3:after{
+.a:after{
   position: absolute;
   background-color: rgba(0, 0, 0, 0);
   color: #fff;
   content:attr(data-text);
   transition: 0.5s;
 }
-.col-sm-3:hover:after{
+.a:hover:after{
   opacity: 1;
 }
 
