@@ -9,8 +9,9 @@ body{
   padding: 50px;
 }
 .backimage1{
-  background-image: url("images/backgrounds/h_img.jpg");
+  background-image: url("../images/backgrounds/h_img.jpg");
   height:700px; 
+  background-position: center;
    
 }
 #logo{
@@ -23,7 +24,7 @@ body{
   text-align: center;
   color: black;
 }
-.banner2 {
+.header2 {
   padding-bottom: 120px;
 }
 
@@ -43,7 +44,8 @@ body{
   height: 350px;
   padding-top: 100px;
   line-height: 200%; 
-  background-image: url(images/backgrounds/s_image.jpg);
+  background-image: url(../images/backgrounds/s_image.jpg);
+  background-position: center;
 }
 .header2,.para2 {
   text-align: center; 
@@ -63,9 +65,7 @@ body{
 .we-do{
   text-align: center;
   padding-top: 40px;
-  /* padding-bottom: 50px;
-  padding-right: 50px;
-  padding-left: 50px; */
+
 }
 .PortF1{
   text-align: center;
@@ -89,7 +89,6 @@ body{
   height: calc(300px - 80px);
   float: left;
   margin: 15px;
-  /* box-sizing: border-box; */
   overflow: hidden;
   border-radius: 10px;
 }
@@ -177,11 +176,12 @@ body{
   opacity: 1;
 }
 
-.contact_us{
-  background-image: url("images/backgrounds/c_image.jpg");
-  height: 450px;
+.contact{
+  background-image: url("../images/backgrounds/c_image.jpg");
+  background-position: center;
   text-align: center;
   color: white;
+
 }
 form{
   background: rgba(0, 0, 0, 0);
