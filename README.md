@@ -2,6 +2,8 @@
 This is a portfolio project developed to show what services Delani studio offer 
 and collect feedback through email.
 
+## Author:
+Kevin Othira Opanga
 
 ## SetUp Instructions.
 The project need a web browser to display and offer interaction with the user
