@@ -9,7 +9,7 @@ body{
   padding: 50px;
 }
 .h_image{
-  background-image: url("../images/assets/backgrounds/h_img.jpg");
+  background-image: url("../images/backgrounds/h_img.jpg");
   height:700px; 
    
 }
@@ -40,7 +40,7 @@ body{
   line-height: 200%;
 }
 .s_image{
-  background-image: url("../images/assets/backgrounds/s_image.jpg");
+  background-image: url("../images/backgrounds/s_image.jpg");
   height: 350px;
   padding-top: 100px;
   line-height: 200%; 
@@ -67,6 +67,28 @@ body{
   padding-right: 50px;
   padding-left: 50px; */
 }
+
+.contact_us{
+  background-image: url("../images/backgrounds/c_image.jpg");
+  height: 450px;
+  text-align: center;
+  color: white;
+}
+form{
+  background: rgba(0, 0, 0, 0);
+}
+.social_icons{
+  text-align: center;
+  padding: 20px;
+}
+.txtb{
+  background: rgba(0, 0, 0, 0);
+}
+.contact_us .txtb label, input, textarea{
+  display: inline-block;
+
+}
+
 .PortF1{
   text-align: center;
   padding-top: 20px;
@@ -177,24 +199,5 @@ body{
   opacity: 1;
 }
 
-.contact_us{
-  background-image: url("../images/assets/backgrounds/c_image.jpg");
-  height: 450px;
-  text-align: center;
-  color: white;
-}
-form{
-  background: rgba(0, 0, 0, 0);
-}
-.social_icons{
-  text-align: center;
-  padding: 20px;
-}
-.txtb{
-  background: rgba(0, 0, 0, 0);
-}
-.contact_us .txtb label, input, textarea{
-  display: inline-block;
 
-}
 
