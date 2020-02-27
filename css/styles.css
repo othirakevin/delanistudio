@@ -197,3 +197,12 @@ form{
   display: inline-block;
 
 }
+#design-show{
+  display: none;
+}
+#dev-show{
+  display: none;
+}
+#product-show{
+  display: none;
+}
