@@ -22,6 +22,13 @@ and internet connection for a live feed and file submission.
 
    https://othirakevin.github.io/delanistudio/
 
+
+## Behavior Driven Development
+This project is a landing page for Delani studio.
+It shows the services offered by the studio, and  have a feedback form that you fill and leave contact information.
+When you hover mouse over the portfolio it changes the visual effects.
+A user can also click on What we do icons to show a description respective to the image.
+
 ## Contact me:
    Email: othirakevin@gmail.com
    Twitter: @voke_kev
