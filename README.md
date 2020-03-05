@@ -18,7 +18,7 @@ and internet connection for a live feed and file submission.
  > JQuerry
  > Bootstrap
 
-## Live link to the project. https://othirakevin.github.io/delanistudio/
+## Live link to the project. 
 
 
    https://othirakevin.github.io/delanistudio/

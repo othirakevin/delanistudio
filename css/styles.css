@@ -138,7 +138,7 @@ body{
 
 .row img{
     padding: 7px 7px;
-    height: 
+ 
 }
 
 .port img{
@@ -147,9 +147,11 @@ body{
 }
 
 
-.row img:hover{
+.port img:hover{
     opacity: 0.3;
 }
+
+
 
 .PortF1{
     padding: 20px, 20px, 20px, 20px;
